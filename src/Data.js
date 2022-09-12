@@ -1,0 +1,68 @@
+const data = [
+  {
+    type: "Fancy Product",
+    price: "$40.00-$80.00",
+    rating: false,
+    oldPrice: null,
+    saleBadge: false,
+    id: 1,
+  },
+  {
+    type: "Special Item",
+    price: "$18.00",
+    rating: true,
+    oldPrice: "$20.00",
+    saleBadge: true,
+    id: 2,
+  },
+  {
+    type: "Sale Item",
+    price: "$25.00",
+    oldPrice: "$50.00",
+    rating: false,
+    saleBadge: true,
+    id: 3,
+  },
+  {
+    type: "Popular Item",
+    price: "$40.00",
+    rating: true,
+    oldPrice: null,
+    saleBadge: false,
+    id: 4,
+  },
+  {
+    type: "Sale Item",
+    price: "$25.00",
+    oldPrice: "$50.00",
+    rating: false,
+    saleBadge: true,
+    id: 5,
+  },
+  {
+    type: "Fancy Product",
+    price: "$120.00-$80.00",
+    oldPrice: null,
+    rating: false,
+    saleBadge: false,
+    id: 6,
+  },
+  {
+    type: "Special Item",
+    price: "$18.00",
+    rating: true,
+    oldPrice: "$20.00",
+    saleBadge: true,
+    id: 7,
+  },
+  {
+    type: "Popular Item",
+    price: "$40.00",
+    rating: true,
+    oldPrice: null,
+    saleBadge: false,
+    id: 8,
+  },
+];
+
+export default data;
